@@ -14,5 +14,11 @@ this is the final iteration of the project developed for the object oriented pro
 - validates input data
 
 ## screenshots
-**Note: The visual appeal of the GUI was not a primary consideration.**
+**note: the visual appeal of the GUI was not a primary consideration.**
+
+![Screenshot from 2023-12-04 11-18-08](https://github.com/sorecauadrian/trench_coat_shop/assets/79454929/1948305a-de81-4554-b977-9737345b7cff)
+
+![Screenshot from 2023-12-04 11-18-29](https://github.com/sorecauadrian/trench_coat_shop/assets/79454929/7d9f9389-c925-42cd-93b8-b554a3b8b109)
+
+![Screenshot from 2023-12-04 11-18-49](https://github.com/sorecauadrian/trench_coat_shop/assets/79454929/8bcbc3f0-f5b8-437d-b1f6-bc96f9ee383c)
 
